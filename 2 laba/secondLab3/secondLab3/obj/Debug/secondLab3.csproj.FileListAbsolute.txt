@@ -1,0 +1,14 @@
+E:\University\isp\2 laba\secondLab3\secondLab3\bin\Debug\secondLab3.exe.config
+E:\University\isp\2 laba\secondLab3\secondLab3\bin\Debug\secondLab3.exe
+E:\University\isp\2 laba\secondLab3\secondLab3\bin\Debug\secondLab3.pdb
+E:\University\isp\2 laba\secondLab3\secondLab3\obj\Debug\secondLab3.csprojAssemblyReference.cache
+E:\University\isp\2 laba\secondLab3\secondLab3\obj\Debug\secondLab3.csproj.CoreCompileInputs.cache
+E:\University\isp\2 laba\secondLab3\secondLab3\obj\Debug\secondLab3.exe
+E:\University\isp\2 laba\secondLab3\secondLab3\obj\Debug\secondLab3.pdb
+E:\University\isp\labsc#\2 laba\secondLab3\secondLab3\bin\Debug\secondLab3.exe.config
+E:\University\isp\labsc#\2 laba\secondLab3\secondLab3\bin\Debug\secondLab3.exe
+E:\University\isp\labsc#\2 laba\secondLab3\secondLab3\bin\Debug\secondLab3.pdb
+E:\University\isp\labsc#\2 laba\secondLab3\secondLab3\obj\Debug\secondLab3.csprojAssemblyReference.cache
+E:\University\isp\labsc#\2 laba\secondLab3\secondLab3\obj\Debug\secondLab3.csproj.CoreCompileInputs.cache
+E:\University\isp\labsc#\2 laba\secondLab3\secondLab3\obj\Debug\secondLab3.exe
+E:\University\isp\labsc#\2 laba\secondLab3\secondLab3\obj\Debug\secondLab3.pdb

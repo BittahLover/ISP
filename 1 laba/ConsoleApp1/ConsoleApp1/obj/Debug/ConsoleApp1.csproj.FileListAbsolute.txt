@@ -1,0 +1,14 @@
+E:\University\isp\1 laba\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+E:\University\isp\1 laba\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\University\isp\1 laba\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\University\isp\1 laba\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\University\isp\1 laba\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\University\isp\1 laba\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\University\isp\1 laba\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+E:\University\first-year\isp\labsc#\1 laba\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\University\first-year\isp\labsc#\1 laba\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\University\first-year\isp\labsc#\1 laba\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\University\first-year\isp\labsc#\1 laba\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+E:\University\first-year\isp\labsc#\1 laba\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\University\first-year\isp\labsc#\1 laba\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\University\first-year\isp\labsc#\1 laba\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

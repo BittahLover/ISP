@@ -1,0 +1,7 @@
+E:\University\isp\labsc#\4 laba\secondTask\WorkLibrary\WorkLibrary\bin\Debug\WorkLibrary.exe.config
+E:\University\isp\labsc#\4 laba\secondTask\WorkLibrary\WorkLibrary\bin\Debug\WorkLibrary.exe
+E:\University\isp\labsc#\4 laba\secondTask\WorkLibrary\WorkLibrary\bin\Debug\WorkLibrary.pdb
+E:\University\isp\labsc#\4 laba\secondTask\WorkLibrary\WorkLibrary\obj\Debug\WorkLibrary.csprojAssemblyReference.cache
+E:\University\isp\labsc#\4 laba\secondTask\WorkLibrary\WorkLibrary\obj\Debug\WorkLibrary.csproj.CoreCompileInputs.cache
+E:\University\isp\labsc#\4 laba\secondTask\WorkLibrary\WorkLibrary\obj\Debug\WorkLibrary.exe
+E:\University\isp\labsc#\4 laba\secondTask\WorkLibrary\WorkLibrary\obj\Debug\WorkLibrary.pdb

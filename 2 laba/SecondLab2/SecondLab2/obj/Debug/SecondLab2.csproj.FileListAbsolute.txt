@@ -1,0 +1,7 @@
+E:\University\isp\2 laba\SecondLab2\SecondLab2\bin\Debug\SecondLab2.exe.config
+E:\University\isp\2 laba\SecondLab2\SecondLab2\bin\Debug\SecondLab2.exe
+E:\University\isp\2 laba\SecondLab2\SecondLab2\bin\Debug\SecondLab2.pdb
+E:\University\isp\2 laba\SecondLab2\SecondLab2\obj\Debug\SecondLab2.csprojAssemblyReference.cache
+E:\University\isp\2 laba\SecondLab2\SecondLab2\obj\Debug\SecondLab2.csproj.CoreCompileInputs.cache
+E:\University\isp\2 laba\SecondLab2\SecondLab2\obj\Debug\SecondLab2.exe
+E:\University\isp\2 laba\SecondLab2\SecondLab2\obj\Debug\SecondLab2.pdb

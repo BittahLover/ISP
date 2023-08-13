@@ -1,0 +1,21 @@
+E:\University\isp\Bank\Bank\bin\Debug\Bank.exe.config
+E:\University\isp\Bank\Bank\bin\Debug\Bank.exe
+E:\University\isp\Bank\Bank\bin\Debug\Bank.pdb
+E:\University\isp\Bank\Bank\obj\Debug\Bank.csprojAssemblyReference.cache
+E:\University\isp\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+E:\University\isp\Bank\Bank\obj\Debug\Bank.exe
+E:\University\isp\Bank\Bank\obj\Debug\Bank.pdb
+E:\University\isp\labsc#\Bank\Bank\bin\Debug\Bank.exe.config
+E:\University\isp\labsc#\Bank\Bank\bin\Debug\Bank.exe
+E:\University\isp\labsc#\Bank\Bank\bin\Debug\Bank.pdb
+E:\University\isp\labsc#\Bank\Bank\obj\Debug\Bank.csprojAssemblyReference.cache
+E:\University\isp\labsc#\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+E:\University\isp\labsc#\Bank\Bank\obj\Debug\Bank.exe
+E:\University\isp\labsc#\Bank\Bank\obj\Debug\Bank.pdb
+E:\University\isp\labsc#\3 5 6 8 labs\Bank\bin\Debug\Bank.exe.config
+E:\University\isp\labsc#\3 5 6 8 labs\Bank\bin\Debug\Bank.exe
+E:\University\isp\labsc#\3 5 6 8 labs\Bank\bin\Debug\Bank.pdb
+E:\University\isp\labsc#\3 5 6 8 labs\Bank\obj\Debug\Bank.csprojAssemblyReference.cache
+E:\University\isp\labsc#\3 5 6 8 labs\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+E:\University\isp\labsc#\3 5 6 8 labs\Bank\obj\Debug\Bank.exe
+E:\University\isp\labsc#\3 5 6 8 labs\Bank\obj\Debug\Bank.pdb
